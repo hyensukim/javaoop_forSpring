@@ -296,7 +296,7 @@ static 키워드가 붙은 속성은 클래스 멤버 속성이다.
 
 ### 상속과 UML 표기법
 
-![img]()
+![img](https://github.com/hyensukim/javaoop_forSpring/blob/main/images/UML%20%EB%8B%A4%EC%9D%B4%EC%95%84%EA%B7%B8%EB%9E%A8.jpg?raw=true)
 
 
 ### 상속과 T메모리
